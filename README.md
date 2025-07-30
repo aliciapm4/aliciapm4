@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🎓 Sophomore at University of Texas at Dallas, studying Computer Engineering
+🔭 Aspiring Engineer and AI/Machine Learning Enthusiast
 <!--
 **aliciapm4/aliciapm4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
