@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-🎓 Sophomore at University of Texas at Dallas, studying Computer Engineering
-🔭 Aspiring Engineer and AI/Machine Learning Enthusiast
+🎓 Senior at the University of Texas at Dallas, studying Computer Engineering  
+🔭 Aspiring Engineer and AI/Machine Learning Enthusiast  
+I'm a motivated and analytical student currently pursuing a Bachelor's degree in Computer Engineering at the University of Texas at Dallas. With a strong passion for technology and its real-world applications, I'm eager to expand my knowledge and skills in the IT field. I'm a quick learner with a logical mindset, committed to delivering high-quality work and contributing positively to any team. My enthusiasm for innovation drives me to seek opportunities where I can grow professionally, apply my academic learning, and make meaningful contributions to the industry.
+
 <!--
 **aliciapm4/aliciapm4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
