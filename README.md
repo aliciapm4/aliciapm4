@@ -31,8 +31,7 @@ Achieved 87% accuracy and a ROC AUC score of 0.92 using Gradient Boosting, outpe
 Built a desktop paint application featuring freehand drawing, color selection, and shape tools using Java’s Swing and AWT libraries.  
 **- Tech Stack:** Java, Swing, AWT  
 **- Learnings:** GUI development in Java, object-oriented design, and applying design patterns to support clean, maintainable code in team-based projects.  
-### More coming soon (once I finish them)
-
+### More coming soon
 
 ## 📲 How to Reach Me:
 **Email:** aliciapenmon@gmail.com  
