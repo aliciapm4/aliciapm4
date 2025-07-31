@@ -17,7 +17,7 @@ Python, Pandas, scikit-learn, Matplotlib, Seaborn
 **- Result:**
 Achieved 87% accuracy and a ROC AUC score of 0.92 using Gradient Boosting, outperforming baseline models and capturing key income-related patterns across demographics. The model can be leveraged for financial profiling, marketing segmentation, and social policy planning. 
 
-*Curious? [See the full project here](https://github.com/aliciapm4/BreakThroughTechAI/blob/b9489f0e2f19035f68be457798a265cd2f0ec04d/Lab%208b_%20Income%20Classification%20with%20U.S.%20Census%20Data.ipynb)*
+*Curious? [See the full project here](https://github.com/aliciapm4/Projects.git)*
 
 ## ⚙️ Tech Skills:
 **Languages:** Python, Java, C++, C  
